@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Iury👋
 
 
-- 🌱 Estudando React
+- 🌱 Estudando Javascript
 - 📫 Contate me no email: iury.freitas961@gmail.com
 
 <div style="display: inline_block"><br>
